@@ -1,0 +1,15 @@
+[
+    {
+        "type": "Livre",
+        "titre": "1984",
+        "auteur": "George Orwell",
+        "isbn": "123456789"
+    },
+    {
+        "type": "LivreNumerique",
+        "titre": "Python 101",
+        "auteur": "Guido van Rossum",
+        "isbn": "987654321",
+        "taille_fichier": "5Mo"
+    }
+]
